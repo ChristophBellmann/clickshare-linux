@@ -1,3 +1,5 @@
+> **⚠️ This repository has moved to [ChristophTHA/clickshare-linux](https://github.com/ChristophTHA/clickshare-linux).** This copy is archived and no longer updated.
+
 # ClickShare on Linux
 
 Share your **Linux desktop and audio** to a Barco ClickShare room system with a
