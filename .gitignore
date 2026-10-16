@@ -1,0 +1,14 @@
+# build output and downloaded toolchain
+/build/
+/.toolchain/
+*.dll
+*.exe
+*.pdb
+*.lib
+
+# Barco software must never be committed
+ClickShare_Setup.exe
+*.nupkg
+
+# logs written by the app when started from this directory
+*.log
